@@ -4,6 +4,7 @@ import MockUp from "../assets/week1/images/mock_up.jpg";
 import citrine from "../assets/week1/images/citrine.png";
 import ruby from "../assets/week1/images/ruby.png";
 import ScreenShot from "../assets/week1/images/screen-shot-1.png";
+import FlippingCard from "../components/FlippingCard";
 
 export default () => (
   <>
@@ -61,39 +62,48 @@ export default () => (
     </ol>
     <ul>
       <h4> The assignment: </h4>
-
       <div>
         As a professional developer you are frequently asked to develop what are
         known as <b>components</b>. Think about the layout of apps like Facebook
-        and Instagram and you will quicly realize that the entire User Interfce
-        is comprised of small modular pieces. This week we will be building our
-        very first component. A card that displays information about various
-        precious gems 💎💎💎💎
+        and Instagram and you will quickly realize that the entire User
+        Interface is comprised of small modular pieces. This week we will be
+        building our very first component. A card that displays information
+        about various precious gems 💎💎💎💎
       </div>
       <br />
       <div>
         Using HTML and CSS alone (links to the gem image files are included
-        below) you are going to reproduce this mock up. Its important to note
-        that as developers there are many tools we can use to speed up our work
-        flow. One amazing tool that you are going to want to use during this
-        assignment (and future projects) are Chrome dev tools. To open right
-        click in chrome and click "Inspect". Shifiting over to the elements page
-        will allow you to edit the css of any website in real time (including
-        this one).{" "}
+        below simply right click and save image) you are going to reproduce this
+        mock up. Its important to note that as developers there are many tools
+        we can use to speed up our work flow. One amazing tool that you are
+        going to want to use during this assignment (and future projects) are
+        Chrome dev tools. To open right click in chrome and click "Inspect".
+        Shifiting over to the elements page will allow you to edit the css of
+        any website in real time (including this one).{" "}
         <a href="https://developer.chrome.com/devtools" target="blank">
           {" "}
           https://developer.chrome.com/devtools{" "}
         </a>
       </div>
       <br />
+      <b> BONUS:</b> have the card flip like in the example below. A great write
+      up of how to achieve this effect can be found here{" "}
+      <a href="https://davidwalsh.name/css-flip">
+        https://davidwalsh.name/css-flip
+      </a>
+      <br />
+      <br />
       <div>
-        <b>NOTE: This is meant to be very challenging!</b> if you are getting
-        blocked or stuck post a message in the FB group or reach out and send me
-        an email. Do the best you can and we will review the assignment during
-        our next meeting.
+        <b>NOTE: This is meant to be very challenging!</b> It doesnt need to be
+        absolutely perfect... If you are getting blocked or stuck post a message
+        in the FB group or reach out and send me an email. Do the best you can
+        and we will review the assignment during our next meeting.
       </div>
-
+      <br />
+      <FlippingCard />
       <img id="mock-up" src={MockUp} />
+      <img className="gem-asset" src={citrine} />
+      <img className="gem-asset" src={ruby} />
       {/* <li>
         {" "}
         The resources for these icons can be found in <code>
