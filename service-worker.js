@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gunnison-valley-hackers/precache-manifest.51d01da77a6fff3ded52ca87968fec71.js"
+  "/gunnison-valley-hackers/precache-manifest.679d089506216aed2a3c943ea32a41b8.js"
 );
 
 self.addEventListener('message', (event) => {
