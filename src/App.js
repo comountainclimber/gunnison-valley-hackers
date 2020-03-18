@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/gunnison-valley-hackers">
         <Navigation />
         <Switch>
           <Route path="/week-1" component={() => <Week1 />} />
