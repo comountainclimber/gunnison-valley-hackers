@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gunnison-valley-hackers/static/css/main.25c7fdcd.chunk.css",
-    "main.js": "/gunnison-valley-hackers/static/js/main.da841a0c.chunk.js",
-    "main.js.map": "/gunnison-valley-hackers/static/js/main.da841a0c.chunk.js.map",
+    "main.css": "/gunnison-valley-hackers/static/css/main.32a0827d.chunk.css",
+    "main.js": "/gunnison-valley-hackers/static/js/main.ecb606d6.chunk.js",
+    "main.js.map": "/gunnison-valley-hackers/static/js/main.ecb606d6.chunk.js.map",
     "runtime-main.js": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js",
     "runtime-main.js.map": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js.map",
-    "static/js/2.bfffb46d.chunk.js": "/gunnison-valley-hackers/static/js/2.bfffb46d.chunk.js",
-    "static/js/2.bfffb46d.chunk.js.map": "/gunnison-valley-hackers/static/js/2.bfffb46d.chunk.js.map",
+    "static/js/2.5e70a643.chunk.js": "/gunnison-valley-hackers/static/js/2.5e70a643.chunk.js",
+    "static/js/2.5e70a643.chunk.js.map": "/gunnison-valley-hackers/static/js/2.5e70a643.chunk.js.map",
     "index.html": "/gunnison-valley-hackers/index.html",
-    "precache-manifest.a6c21dc16ed0728564080b1e91a3ba07.js": "/gunnison-valley-hackers/precache-manifest.a6c21dc16ed0728564080b1e91a3ba07.js",
+    "precache-manifest.51d01da77a6fff3ded52ca87968fec71.js": "/gunnison-valley-hackers/precache-manifest.51d01da77a6fff3ded52ca87968fec71.js",
     "service-worker.js": "/gunnison-valley-hackers/service-worker.js",
-    "static/css/main.25c7fdcd.chunk.css.map": "/gunnison-valley-hackers/static/css/main.25c7fdcd.chunk.css.map",
-    "static/js/2.bfffb46d.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.bfffb46d.chunk.js.LICENSE.txt",
+    "static/css/main.32a0827d.chunk.css.map": "/gunnison-valley-hackers/static/css/main.32a0827d.chunk.css.map",
+    "static/js/2.5e70a643.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.5e70a643.chunk.js.LICENSE.txt",
     "static/media/citrine.png": "/gunnison-valley-hackers/static/media/citrine.44a5f4c2.png",
     "static/media/logo.svg": "/gunnison-valley-hackers/static/media/logo.5d5d9eef.svg",
     "static/media/mock_up.jpg": "/gunnison-valley-hackers/static/media/mock_up.51e55b83.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.25e6354e.js",
-    "static/js/2.bfffb46d.chunk.js",
-    "static/css/main.25c7fdcd.chunk.css",
-    "static/js/main.da841a0c.chunk.js"
+    "static/js/2.5e70a643.chunk.js",
+    "static/css/main.32a0827d.chunk.css",
+    "static/js/main.ecb606d6.chunk.js"
   ]
 }
