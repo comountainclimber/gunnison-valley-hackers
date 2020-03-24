@@ -116,3 +116,137 @@ img#mock-up {
   width: 70px;
   height: 50px;
 }
+
+#example-1 {
+  height: 100px;
+  width: 100px;
+  background: #ffffff;
+  border: 1px solid #979797;
+}
+
+#example-2 {
+  background: #3be82b;
+  border: 1px solid #3be82b;
+  border-radius: 4px;
+  height: 100px;
+  width: 100px;
+}
+
+#example-3 {
+  background: #272343;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+#example-4 {
+  background: #f925ff;
+  height: 100px;
+  width: 242px;
+}
+
+#example-5-container {
+  display: flex;
+}
+
+.example-5-square:nth-child(1) {
+  margin: 0 6px 0 0;
+}
+
+.example-5-square:last-child {
+  margin: 0 0 0 6px;
+}
+
+.example-5-square {
+  margin: 0 6px;
+  height: 100px;
+  width: 100px;
+  background: #ffffff;
+  border: 1px solid #979797;
+}
+
+#example-6-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-6-square:nth-child(1) {
+  margin: 0 0 6px 0;
+}
+
+.example-6-square:last-child {
+  margin: 6px 0 6px 0;
+}
+
+.example-6-square {
+  margin: 6px 0;
+  height: 100px;
+  width: 100px;
+  background: #ffffff;
+  border: 1px solid #979797;
+}
+
+#example-7 {
+  background: #dfdfdf;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+  width: 400px;
+  height: 150px;
+}
+
+#example-8 {
+  background: #dfdfdf;
+  box-shadow: 0 7px 16px 0 rgba(0, 0, 0, 0.5);
+  width: 400px;
+  height: 150px;
+}
+
+#example-9-container {
+  display: flex;
+}
+
+.example-9-circle {
+  margin: 0 200px;
+  height: 165px;
+  width: 135px;
+  background: #ffffff;
+  border: 1px solid #979797;
+  border-radius: 100%;
+}
+
+.example-9-circle:nth-child(1) {
+  margin: 0;
+}
+
+.example-9-circle:last-child {
+  margin: 0;
+}
+
+#example-10 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 48px;
+}
+
+#example-11 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 48px;
+}
+
+#example-12 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 48px;
+  background: #272343;
+  border: 1px solid #979797;
+  border-radius: 18px;
+  color: #ffffff;
+  width: 582px;
+  height: 178px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#example-13 {
+  font-size: 300px;
+}

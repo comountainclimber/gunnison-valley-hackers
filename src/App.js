@@ -6,6 +6,7 @@ import Home from "./pages/Home";
 import Navigation from "./components/Navigation";
 import logo from "./logo.svg";
 import "./App.css";
+import Week1Solution from "./pages/Week1Solution";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Navigation />
         <Switch>
           <Route path="/week-1" component={() => <Week1 />} />
+          <Route path="/week-1-solution" component={() => <Week1Solution />} />
           <Route path="/" component={() => <Home />} />
         </Switch>
       </Router>
