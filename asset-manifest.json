@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gunnison-valley-hackers/static/css/main.ff474bf8.chunk.css",
-    "main.js": "/gunnison-valley-hackers/static/js/main.f43f0168.chunk.js",
-    "main.js.map": "/gunnison-valley-hackers/static/js/main.f43f0168.chunk.js.map",
+    "main.js": "/gunnison-valley-hackers/static/js/main.ad4a4a34.chunk.js",
+    "main.js.map": "/gunnison-valley-hackers/static/js/main.ad4a4a34.chunk.js.map",
     "runtime-main.js": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js",
     "runtime-main.js.map": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js.map",
-    "static/js/2.79468842.chunk.js": "/gunnison-valley-hackers/static/js/2.79468842.chunk.js",
-    "static/js/2.79468842.chunk.js.map": "/gunnison-valley-hackers/static/js/2.79468842.chunk.js.map",
+    "static/js/2.54a5b05b.chunk.js": "/gunnison-valley-hackers/static/js/2.54a5b05b.chunk.js",
+    "static/js/2.54a5b05b.chunk.js.map": "/gunnison-valley-hackers/static/js/2.54a5b05b.chunk.js.map",
     "index.html": "/gunnison-valley-hackers/index.html",
-    "precache-manifest.b1958adbb11b7031c4b721ce75b40af9.js": "/gunnison-valley-hackers/precache-manifest.b1958adbb11b7031c4b721ce75b40af9.js",
+    "precache-manifest.c66c2d6c8f8cd58f97d09e7c7d0de999.js": "/gunnison-valley-hackers/precache-manifest.c66c2d6c8f8cd58f97d09e7c7d0de999.js",
     "service-worker.js": "/gunnison-valley-hackers/service-worker.js",
     "static/css/main.ff474bf8.chunk.css.map": "/gunnison-valley-hackers/static/css/main.ff474bf8.chunk.css.map",
-    "static/js/2.79468842.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.79468842.chunk.js.LICENSE.txt",
+    "static/js/2.54a5b05b.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.54a5b05b.chunk.js.LICENSE.txt",
     "static/media/Desktop.png": "/gunnison-valley-hackers/static/media/Desktop.9f4c8d45.png",
     "static/media/citrine.png": "/gunnison-valley-hackers/static/media/citrine.44a5f4c2.png",
     "static/media/hello_world.png": "/gunnison-valley-hackers/static/media/hello_world.391e07c7.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.25e6354e.js",
-    "static/js/2.79468842.chunk.js",
+    "static/js/2.54a5b05b.chunk.js",
     "static/css/main.ff474bf8.chunk.css",
-    "static/js/main.f43f0168.chunk.js"
+    "static/js/main.ad4a4a34.chunk.js"
   ]
 }
