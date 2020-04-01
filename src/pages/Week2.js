@@ -94,7 +94,7 @@ export default () => (
       <div>
         This week we are putting everything we have learned together to create a
         blog for writing up articles on programming. Congrats on getting this
-        far... No solution will be provided this work so do your best and have
+        far... No solution will be provided this week so do your best and have
         fun!
       </div>
       <br />
