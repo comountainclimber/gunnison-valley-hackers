@@ -92,9 +92,10 @@ export default () => (
     <ul>
       <h4> The assignment: </h4>
       <div>
-        This week we are putting everything we have learned togethert to create
-        a blog for writing up articles programming. Congrats on getting this
-        far... No solution will be provided this work so do your best!
+        This week we are putting everything we have learned together to create a
+        blog for writing up articles on programming. Congrats on getting this
+        far... No solution will be provided this work so do your best and have
+        fun!
       </div>
       <br />
       <img id="screen-shot-3" src={ScreenShot3} />
