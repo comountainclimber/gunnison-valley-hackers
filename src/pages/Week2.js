@@ -58,6 +58,15 @@ export default () => (
       </li>
 
       <li>
+        <a
+          href="https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate"
+          target="_blank"
+        >
+          HTML VSCode Boilerplate Extension
+        </a>
+      </li>
+
+      <li>
         <a href="https://baconipsum.com/" target="_blank">
           Bacon ipsum 🥓🥓🥓
         </a>
