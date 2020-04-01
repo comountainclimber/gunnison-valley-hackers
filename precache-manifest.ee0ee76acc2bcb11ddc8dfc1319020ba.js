@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cbeb2881f2fcfde3c9323f5f264637b",
+    "revision": "f652d0fea1d20ac8c610a19bf0d24ad7",
     "url": "/gunnison-valley-hackers/index.html"
   },
   {
-    "revision": "2579b0220ee2e9b4bb31",
-    "url": "/gunnison-valley-hackers/static/css/main.ff474bf8.chunk.css"
+    "revision": "e8f28786afeefd402f74",
+    "url": "/gunnison-valley-hackers/static/css/main.f839b0d3.chunk.css"
   },
   {
-    "revision": "493e8795027ac1a95ec0",
-    "url": "/gunnison-valley-hackers/static/js/2.54a5b05b.chunk.js"
+    "revision": "473da8fc736f67b83e35",
+    "url": "/gunnison-valley-hackers/static/js/2.d16fcfc2.chunk.js"
   },
   {
     "revision": "ea25659f102c6425053f0c1e0a54af5a",
-    "url": "/gunnison-valley-hackers/static/js/2.54a5b05b.chunk.js.LICENSE.txt"
+    "url": "/gunnison-valley-hackers/static/js/2.d16fcfc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2579b0220ee2e9b4bb31",
-    "url": "/gunnison-valley-hackers/static/js/main.ad4a4a34.chunk.js"
+    "revision": "e8f28786afeefd402f74",
+    "url": "/gunnison-valley-hackers/static/js/main.96d78876.chunk.js"
   },
   {
     "revision": "8c3725d8cd759f5a657a",
     "url": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js"
+  },
+  {
+    "revision": "30d8085ebacff58aaaf6e80912dc5a54",
+    "url": "/gunnison-valley-hackers/static/media/Artboard.30d8085e.png"
   },
   {
     "revision": "9f4c8d457072eb371e13fd0f1965b7b5",
