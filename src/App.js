@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
+import Week2 from "./pages/Week2";
 import Week1 from "./pages/Week1";
 import Home from "./pages/Home";
 import Navigation from "./components/Navigation";
@@ -14,6 +15,7 @@ function App() {
       <Router basename="/gunnison-valley-hackers">
         <Navigation />
         <Switch>
+          <Route path="/week-2" component={() => <Week2 />} />
           <Route path="/week-1" component={() => <Week1 />} />
           <Route path="/week-1-solution" component={() => <Week1Solution />} />
           <Route path="/" component={() => <Home />} />

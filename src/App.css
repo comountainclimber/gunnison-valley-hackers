@@ -213,6 +213,10 @@ img#mock-up {
   border-radius: 100%;
 }
 
+#screen-shot-3 {
+  width: 1200px;
+}
+
 .example-9-circle:nth-child(1) {
   margin: 0;
 }
