@@ -56,7 +56,7 @@ export default () => (
         This week we will be focusing exclusively on JS exercises to reinforce
         the concepts of the slides and lecture from this week. There will be
         little if any HTML and CSS involved. Please please reach out on the FB
-        group if there is any issues or if anything is blocking you.
+        group if there are any issues or if anything is blocking you.
       </div>
 
       <li>
