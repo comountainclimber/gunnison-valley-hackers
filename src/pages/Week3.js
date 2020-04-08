@@ -18,6 +18,7 @@ export default () => (
 
     <ul>
       <h4>Resources:</h4>
+      <li>Week 3 lecture on youtube: (coming soon)</li>
       <li>
         <a
           href="https://docs.google.com/presentation/d/1-Zg8LloqT3Kpb3zZP5h0AGyvbpJw1wRjnLukqJwvBpg/edit?usp=sharing"
