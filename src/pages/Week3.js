@@ -1,16 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import YouTube from "react-youtube";
-
-import MockUp from "../assets/week1/images/mock_up.jpg";
-import citrine from "../assets/week1/images/citrine.png";
-import ruby from "../assets/week1/images/ruby.png";
-import ScreenShot from "../assets/week1/images/screen-shot-1.png";
-import ScreenShot2 from "../assets/week1/images/Desktop.png";
-import FlippingCard from "../components/FlippingCard";
-import helloWorld from "../assets/week1/images/hello_world.png";
-
-import ScreenShot3 from "../assets/week2/Artboard.png";
 
 export default () => (
   <>
@@ -18,7 +7,9 @@ export default () => (
 
     <ul>
       <h4>Resources:</h4>
-      <li>Week 3 lecture on youtube: (coming soon)</li>
+      <li>
+        Week 3 lecture on youtube: <YouTube videoId="ZX4Z24TVDjA" />
+      </li>
       <li>
         <a
           href="https://docs.google.com/presentation/d/1-Zg8LloqT3Kpb3zZP5h0AGyvbpJw1wRjnLukqJwvBpg/edit?usp=sharing"
