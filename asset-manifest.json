@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/gunnison-valley-hackers/static/css/main.f839b0d3.chunk.css",
-    "main.js": "/gunnison-valley-hackers/static/js/main.2b49fd3a.chunk.js",
-    "main.js.map": "/gunnison-valley-hackers/static/js/main.2b49fd3a.chunk.js.map",
+    "main.js": "/gunnison-valley-hackers/static/js/main.55f4e622.chunk.js",
+    "main.js.map": "/gunnison-valley-hackers/static/js/main.55f4e622.chunk.js.map",
     "runtime-main.js": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js",
     "runtime-main.js.map": "/gunnison-valley-hackers/static/js/runtime-main.25e6354e.js.map",
-    "static/js/2.4dc76f81.chunk.js": "/gunnison-valley-hackers/static/js/2.4dc76f81.chunk.js",
-    "static/js/2.4dc76f81.chunk.js.map": "/gunnison-valley-hackers/static/js/2.4dc76f81.chunk.js.map",
+    "static/js/2.e4929c88.chunk.js": "/gunnison-valley-hackers/static/js/2.e4929c88.chunk.js",
+    "static/js/2.e4929c88.chunk.js.map": "/gunnison-valley-hackers/static/js/2.e4929c88.chunk.js.map",
     "index.html": "/gunnison-valley-hackers/index.html",
-    "precache-manifest.d0a3bc920053b7fce4a3a6a1c88d5c59.js": "/gunnison-valley-hackers/precache-manifest.d0a3bc920053b7fce4a3a6a1c88d5c59.js",
+    "precache-manifest.79c7721bb08a98748ae82aae14710e93.js": "/gunnison-valley-hackers/precache-manifest.79c7721bb08a98748ae82aae14710e93.js",
     "service-worker.js": "/gunnison-valley-hackers/service-worker.js",
     "static/css/main.f839b0d3.chunk.css.map": "/gunnison-valley-hackers/static/css/main.f839b0d3.chunk.css.map",
-    "static/js/2.4dc76f81.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.4dc76f81.chunk.js.LICENSE.txt",
+    "static/js/2.e4929c88.chunk.js.LICENSE.txt": "/gunnison-valley-hackers/static/js/2.e4929c88.chunk.js.LICENSE.txt",
     "static/media/Artboard.png": "/gunnison-valley-hackers/static/media/Artboard.30d8085e.png",
     "static/media/Desktop.png": "/gunnison-valley-hackers/static/media/Desktop.9f4c8d45.png",
     "static/media/citrine.png": "/gunnison-valley-hackers/static/media/citrine.44a5f4c2.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.25e6354e.js",
-    "static/js/2.4dc76f81.chunk.js",
+    "static/js/2.e4929c88.chunk.js",
     "static/css/main.f839b0d3.chunk.css",
-    "static/js/main.2b49fd3a.chunk.js"
+    "static/js/main.55f4e622.chunk.js"
   ]
 }
