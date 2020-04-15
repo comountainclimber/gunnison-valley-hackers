@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "174daeb81321f3cc49094d3a9573453f",
+    "revision": "87ab0057a0dce24274a24ae2b6fc30d4",
     "url": "/gunnison-valley-hackers/index.html"
   },
   {
-    "revision": "5533916112e46d35dc37",
+    "revision": "c384885446a8d20da8a5",
     "url": "/gunnison-valley-hackers/static/css/main.f839b0d3.chunk.css"
   },
   {
-    "revision": "377e075a2bac0c93f631",
-    "url": "/gunnison-valley-hackers/static/js/2.e4929c88.chunk.js"
+    "revision": "cd899cb676dfda32b36f",
+    "url": "/gunnison-valley-hackers/static/js/2.9422b636.chunk.js"
   },
   {
     "revision": "ea25659f102c6425053f0c1e0a54af5a",
-    "url": "/gunnison-valley-hackers/static/js/2.e4929c88.chunk.js.LICENSE.txt"
+    "url": "/gunnison-valley-hackers/static/js/2.9422b636.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5533916112e46d35dc37",
-    "url": "/gunnison-valley-hackers/static/js/main.55f4e622.chunk.js"
+    "revision": "c384885446a8d20da8a5",
+    "url": "/gunnison-valley-hackers/static/js/main.e6e89ee9.chunk.js"
   },
   {
     "revision": "8c3725d8cd759f5a657a",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gunnison-valley-hackers/static/media/Desktop.9f4c8d45.png"
   },
   {
-    "revision": "44a5f4c259731e8ba02a40f9b7c22201",
-    "url": "/gunnison-valley-hackers/static/media/citrine.44a5f4c2.png"
+    "revision": "b1f93178cc6ee1cc6d32d15a54e25df8",
+    "url": "/gunnison-valley-hackers/static/media/TODO_LIST.b1f93178.png"
   },
   {
     "revision": "391e07c7570a84bb67b194181623efd1",
@@ -42,17 +42,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/gunnison-valley-hackers/static/media/logo.5d5d9eef.svg"
-  },
-  {
-    "revision": "51e55b83702ea92801f53b323eceeb9f",
-    "url": "/gunnison-valley-hackers/static/media/mock_up.51e55b83.jpg"
-  },
-  {
-    "revision": "f985ca64fc843c9b6e1cb1728845471d",
-    "url": "/gunnison-valley-hackers/static/media/ruby.f985ca64.png"
-  },
-  {
-    "revision": "80190484e8052320f54deedd48597790",
-    "url": "/gunnison-valley-hackers/static/media/screen-shot-1.80190484.png"
   }
 ]);
