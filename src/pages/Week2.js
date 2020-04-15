@@ -1,14 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import YouTube from "react-youtube";
-
-import MockUp from "../assets/week1/images/mock_up.jpg";
-import citrine from "../assets/week1/images/citrine.png";
-import ruby from "../assets/week1/images/ruby.png";
-import ScreenShot from "../assets/week1/images/screen-shot-1.png";
-import ScreenShot2 from "../assets/week1/images/Desktop.png";
-import FlippingCard from "../components/FlippingCard";
-import helloWorld from "../assets/week1/images/hello_world.png";
 
 import ScreenShot3 from "../assets/week2/Artboard.png";
 
