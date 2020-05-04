@@ -5,7 +5,7 @@ import mock from "../assets/week4/TODO_LIST.png";
 
 export default () => (
   <>
-    <h1 class="week-number"> Week 4 </h1>
+    <h1 class="week-number"> Week 5 </h1>
 
     <ul>
       <h4>Resources:</h4>
