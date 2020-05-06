@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
+import Week6 from "./pages/Week6";
 import Week5 from "./pages/Week5";
 import Week4 from "./pages/Week4";
 import Week3 from "./pages/Week3";
@@ -18,6 +19,7 @@ function App() {
       <Router basename="/gunnison-valley-hackers">
         <Navigation />
         <Switch>
+          <Route path="/week-6" component={() => <Week6 />} />
           <Route path="/week-5" component={() => <Week5 />} />
           <Route path="/week-4" component={() => <Week4 />} />
           <Route path="/week-3" component={() => <Week3 />} />

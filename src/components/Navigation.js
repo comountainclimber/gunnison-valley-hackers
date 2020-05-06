@@ -16,5 +16,7 @@ export default () => (
     <Link to="/week-4">Week 4</Link>
     <br />
     <Link to="/week-5">Week 5</Link>
+    <br />
+    <Link to="/week-6">Week 6</Link>
   </div>
 );
